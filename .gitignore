@@ -1,0 +1,51 @@
+# 操作系统生成的文件
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+venv/
+env/
+ENV/
+pip-log.txt
+pip-delete-this-directory.txt
+.pytest_cache/
+
+# C/C++
+*.o
+*.obj
+*.exe
+*.out
+*.a
+*.dll
+*.dylib
+*.so
+*.lib
+Debug/
+Release/
+x64/
+x86/
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+target/
+.gradle/
+build/
+
+# IDE（集成开发环境）配置
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 笔记临时文件
+*~
+._*
