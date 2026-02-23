@@ -4,22 +4,20 @@
 
 ## 📖 内容结构/Content Structure
 
-```
-学习笔记/Study Notes
-    计算机/Computer
-        概念/Concepts
-            [C语言概念/C Language Concepts](./Computer/Concepts/C%20Language%20Concepts.md)
-        代码/Code
-        算法/Algorithms
-        项目/projects
-    数学/Math
-        概念/Concepts
-        习题/Exercises
-        推导/Formula derivation
-    资源/Public resources
-        图片/Pictures
-        书单/Reading list
-```
+- 学习笔记/Study Notes
+    - 计算机/Computer
+        - 概念/Concepts
+            - [C语言概念/C Language Concepts](./Computer/Concepts/C%20Language%20Concepts.md)
+        - 代码/Code
+        - 算法/Algorithms
+        - 项目/projects
+    - 数学/Math
+        - 概念/Concepts
+        - 习题/Exercises
+        - 推导/Formula derivation
+    - 资源/Public resources
+        - 图片/Pictures
+        - 书单/Reading list
 
 ## 📝 最近更新/Recently Updated
 
