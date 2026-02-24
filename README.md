@@ -10,8 +10,10 @@
     - 计算机/Computer
         - 概念/Concepts
             - [C语言概念/C Language Concepts](./Computer/Concepts/C%20Language%20Concepts.md)
+            - [数据结构/Data Structures](./Computer/Concepts/Data%20Structures.md)
         - 代码/Code
         - 算法/Algorithms
+            - [算法/Algorithms](./Computer/Algorithms/Algorithms.md)
         - 项目/projects
     - 数学/Math
         - 概念/Concepts
@@ -25,6 +27,7 @@
 
 ## 📝 最近更新/Recently Updated
 
+- [2026-02-24] 添加了数据结构概念、算法文件，更新了书单名目。/Added concepts of data structures and algorithm files, and updated the list of book titles.
 - [2026-02-23] 补充了书单名目。/Added items to the book list.
 - [2026-02-23] 添加了C语言概念文件并更新了第一至第八章节。/Added C language concept files and updated chapters one through eight.
 - [2026-02-22] 优化了README.md的界面。/Optimized the interface of README.md.
