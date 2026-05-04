@@ -1,6 +1,6 @@
 # 📚 学习/learning
 
-记录学习过程。/Record the learning process.
+力求至臻之境，不陷凡庸之渊。/Streven naar excellentie,niet naar middelmatigheid.
 
 ————
 
@@ -9,7 +9,8 @@
 - 学习笔记/Study Notes
     - 计算机/Computer
         - 概念/Concepts
-            - [C语言概念/C Language Concepts](./Computer/Concepts/C%20Language%20Concepts.md)
+            - [C语言/C Language](./Computer/Concepts/C%20Language.md)
+            - [Python/Python](./Computer/Concepts/Python.md)
             - [数据结构/Data Structures](./Computer/Concepts/Data%20Structures.md)
         - 代码/Code
         - 算法/Algorithms
@@ -17,6 +18,7 @@
         - 项目/projects
     - 数学/Math
         - 概念/Concepts
+            - [普林斯顿微积分读本/Princeton Calculus Reader](./Math/Concepts/Princeton%20Calculus%20Reader.md)
         - 习题/Exercises
         - 推导/Formula derivation
     - 资源/Public resources
@@ -27,6 +29,10 @@
 
 ## 📝 最近更新/Recently Updated
 
+- [2026-03-16]
+    - 完成关于Python基础语法的学习，开始Python第一个练习项目。/Complete the study of basic Python syntax and start the first Python practice project.
+    - 高中阶段关于函数的概念及公式的复习。/Review of the concepts and formulas of functions at the high school level.
+    - 书单新增《Python编程：从入门到实践/Python Programming: From Beginner to Practice》，《普林斯顿微积分读本/Princeton Calculus Reader》，目前正在复习C语言，学习微积分中。/Added to the reading list: 'Python Programming: From Beginner to Practice','Princeton Calculus Reader'. Currently reviewing C language,studying calculus.
 - [2026-02-24] 添加了数据结构概念、算法文件，更新了书单名目。/Added concepts of data structures and algorithm files, and updated the list of book titles.
 - [2026-02-23] 补充了书单名目。/Added items to the book list.
 - [2026-02-23] 添加了C语言概念文件并更新了第一至第八章节。/Added C language concept files and updated chapters one through eight.
