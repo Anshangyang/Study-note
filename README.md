@@ -1,6 +1,6 @@
 # 📚 学习/learning
 
-力求至臻之境，不陷凡庸之渊。/Streven naar excellentie,niet naar middelmatigheid.
+力求至臻之境，不陷凡庸之渊。/Strebe nach höchster Vollkommenheit, ohne in die Tiefen des Gewöhnlichen zu fallen.
 
 ————
 
@@ -12,13 +12,16 @@
             - [C语言/C Language](./Computer/Concepts/C%20Language.md)
             - [Python/Python](./Computer/Concepts/Python.md)
             - [数据结构/Data Structures](./Computer/Concepts/Data%20Structures.md)
+            - [计算机网络/Computer Networks](./Computer/Concepts/Computer%20Networks.md)
+            - [安全/Computer safety](./Computer/Concepts/Computer%20safety.md)
         - 代码/Code
         - 算法/Algorithms
             - [算法/Algorithms](./Computer/Algorithms/Algorithms.md)
-        - 项目/projects
+        - 项目/Projects
+        - 工具/Tools
+          - [Git](./Computer/Tools/Git.md)
     - 数学/Math
         - 概念/Concepts
-            - [普林斯顿微积分读本/Princeton Calculus Reader](./Math/Concepts/Princeton%20Calculus%20Reader.md)
         - 习题/Exercises
         - 推导/Formula derivation
     - 资源/Public resources
@@ -29,6 +32,11 @@
 
 ## 📝 最近更新/Recently Updated
 
+- [2026-08-02]
+    - Return.
+    - 调整原先计划，将会多线并进，更新频率会稳定在一周一更。/Adjust the original plan, there will be multiple lines progressing simultaneously, and the update frequency will stabilize at one update per week.
+    - 目前先添加计网和安全和Linux基础。/For now, let's just add computer networks, security, and basic Linux.
+    - 将添加工具的学习。/Learning to add tools.
 - [2026-03-16]
     - 完成关于Python基础语法的学习，开始Python第一个练习项目。/Complete the study of basic Python syntax and start the first Python practice project.
     - 高中阶段关于函数的概念及公式的复习。/Review of the concepts and formulas of functions at the high school level.
