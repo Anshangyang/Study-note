@@ -38,7 +38,7 @@
 ## 📝 最近更新/Recently Updated
 
 - [2026-08-09]
-    - 主要学习计划暂且搁置，学习docker工具及Flash框架。/The main study plan is temporarily on hold, focusing on learning Docker tools and the Flash framework.
+    - 主要学习计划暂且搁置，学习docker工具及Flash框架。/The main study plan is temporarily on hold, focusing on learning Docker tools and the Flask framework.
     - 增添了AI、计算机组成原理以及一份微小型项目档案。/Added AI, computer organization principles, and a tiny project portfolio.
 - [2026-08-02]
     - Return.
