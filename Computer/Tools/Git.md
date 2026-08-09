@@ -20,7 +20,8 @@ git commit -m “提交信息”：将暂存区的修改提交。
 git push：上传本地提交。
 git push origin main：第一次上传本地提交时。
 
-### 查看历史：	git log 或 git log --oneline。
+### 查看历史：
+git log 或 git log --oneline。
 
 ### 拉取更新：
 git pull。
@@ -54,6 +55,10 @@ git init。
 
 ### 绑定远程仓库：
 git remote add origin 链接。
+
+### 文件冲突：
+git pull origin main --rebase：拉取远程历史查看冲突。
+git push origin main：无冲突执行推送命令。
 
 ---
 

@@ -14,12 +14,17 @@
             - [数据结构/Data Structures](./Computer/Concepts/Data%20Structures.md)
             - [计算机网络/Computer Networks](./Computer/Concepts/Computer%20Networks.md)
             - [安全/Computer safety](./Computer/Concepts/Computer%20safety.md)
+            - [Linux](./Computer/Concepts/Linux.md)
+            - [计算机组成原理/Grundlagen der Computerarchitektur](./Computer/Concepts/Principles%20of%20Computer%20Organization.md)
+            - [AI](./Computer/Concepts/AI.md)
         - 代码/Code
         - 算法/Algorithms
             - [算法/Algorithms](./Computer/Algorithms/Algorithms.md)
         - 项目/Projects
+          - [个人网站初站点docker部署](./Computer/Projects/个人网站初站点docker部署.md)
         - 工具/Tools
           - [Git](./Computer/Tools/Git.md)
+          - [Flask](./Computer/Tools/Flask.md)
     - 数学/Math
         - 概念/Concepts
         - 习题/Exercises
@@ -32,6 +37,9 @@
 
 ## 📝 最近更新/Recently Updated
 
+- [2026-08-09]
+    - 主要学习计划暂且搁置，学习docker工具及Flash框架。/The main study plan is temporarily on hold, focusing on learning Docker tools and the Flash framework.
+    - 增添了AI、计算机组成原理以及一份微小型项目档案。/Added AI, computer organization principles, and a tiny project portfolio.
 - [2026-08-02]
     - Return.
     - 调整原先计划，将会多线并进，更新频率会稳定在一周一更。/Adjust the original plan, there will be multiple lines progressing simultaneously, and the update frequency will stabilize at one update per week.
